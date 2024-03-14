@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mada: Mada;
+
+  /* font sizes */
+  --font-size-13xl: 2rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-29xl: 3rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-crimson: #c00040;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+}
